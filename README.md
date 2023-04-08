@@ -6,7 +6,7 @@
 
 (💞️) I’m looking to collaborate on open-source projects that solve interesting problems and have a positive impact on society. 
 
-(📫) How to reach me: You can contact me through my GitHub profile or by email at [email address].
+(📫) How to reach me: You can contact me through my GitHub profile or by email at davit.zhgenti2006@gmail.com.
 
 (💻) Here are some of the projects I have worked on:
 
