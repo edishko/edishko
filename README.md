@@ -10,13 +10,16 @@
 
 (💻) Here are some of the projects I have worked on:
 
-Project 1: A C++ program that does X, Y, and Z.
-Project 2: A Python script that automates A, B, and C.
-Project 3: A C program that implements D, E, and F.
+  Project 1: A C++ link shortcut program for zoom meetings - Slink.
+  Project 2: A Python script that automates data entry and document creation.
+  Project 3: A Python program that scrapes data and makes annoucments on discord.
 
-(🌟) I am particularly proud of [highlight-a-project-that-you-are-really-proud-of].
+(🌟) I am particularly proud of Slink, as it was my first important project.
 
-(📚) In addition to my coding projects, I also enjoy reading about computer science and technology. Some of my favorite books include [book-1], [book-2], and [book-3].
+(📚) In addition to my coding projects, I also enjoy watching stuff about computer science and technology. Some of my favorite Youtube channels are:
+  https://www.youtube.com/@CodingWithLewis
+  https://www.youtube.com/@Fireship
+  https://www.youtube.com/@Danidev
 
 (🤝) Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always excited to meet new people and work on interesting projects together!
 
