@@ -1,26 +1,55 @@
-(👋) Hi, I’m @edishko!
+<h1 align="center">My Readme</h1>
 
-(👀) I’m interested in computer science, programming, and technology. 
+###
 
-(🌱) I’m currently learning new programming languages and frameworks to expand my skillset. 
+<h3 align="left">🔥   My Stats</h3>
 
-(💞️) I’m looking to collaborate on open-source projects that solve interesting problems and have a positive impact on society. 
+###
 
-(📫) How to reach me: You can contact me through my GitHub profile or by email at davit.zhgenti2006@gmail.com.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edishko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-(💻) Here are some of the projects I have worked on:
+###
 
-  Project 1: A C++ link shortcut program for zoom meetings - Slink.
-  Project 2: A Python script that automates data entry and document creation.
-  Project 3: A Python program that scrapes data and makes annoucments on discord.
+<h3 align="left">🛠 Language and tools</h3>
 
-(🌟) I am particularly proud of Slink, as it was my first important project.
+###
 
-(📚) In addition to my coding projects, I also enjoy watching stuff about computer science and technology. Some of my favorite Youtube channels are:
-  https://www.youtube.com/@CodingWithLewis
-  https://www.youtube.com/@Fireship
-  https://www.youtube.com/@Danidev
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
 
-(🤝) Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always excited to meet new people and work on interesting projects together!
+###
 
-(🔗) You can find more information about me and my work on my LinkedIn profile. Thanks for stopping by!
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edishko.edishko&left_text=Stalkers"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/edishko/edishko/output/snake.svg" alt="Snake animation" />
+
+###
